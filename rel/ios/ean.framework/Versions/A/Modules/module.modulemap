@@ -1,0 +1,10 @@
+framework module "Ean" {
+	header "ref.h"
+    header "Ean.objc.h"
+    header "Dsa.objc.h"
+    header "Ies.objc.h"
+    header "universe.objc.h"
+    header "Ean.h"
+
+    export *
+}
